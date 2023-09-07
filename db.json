@@ -1,0 +1,56 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Best Version",
+      "position": "Lead of Technology",
+      "contract": true,
+      "job description": "Contract with devil !00% focus and 100% work ethics"
+    },
+    {
+      "id": 2,
+      "name": "Oliver Queen",
+      "position": "Manager",
+      "contract": false,
+      "job description": "Oversees operations and employees to achieve business goals."
+    },
+    {
+      "id": 3,
+      "name": "Wally West",
+      "position": "Chief Distributor",
+      "contract": true,
+      "job description": "Leads distribution of products or services to customers."
+    },
+    {
+      "id": 4,
+      "name": "Clark Kent",
+      "position": "Chief Auditor",
+      "contract": true,
+      "job description": "Manages internal audit functions, assesses financial risk, and provides recommendations for improving organization performance and compliance."
+    },
+    {
+      "id": 5,
+      "name": "Diana Prince",
+      "position": "Head of Human Resources",
+      "contract": false,
+      "job description": "Manages personnel, recruitment, and employee relations."
+    }
+  ],
+  "branches": [
+    {
+      "id": "abc1",
+      "state": "Metropolis",
+      "Address": "33 kent Street"
+    },
+    {
+      "id": "efg2",
+      "state": "Gotham",
+      "Address": "439 Wayne Estate"
+    },
+    {
+      "id": "ijk3",
+      "state": "Anthens",
+      "Address": "12 Princess Creak Street"
+    }
+  ]
+}
